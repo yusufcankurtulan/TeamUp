@@ -82,6 +82,6 @@ Pull request’ler memnuniyetle karşılanır! Büyük değişiklikler için ön
 
 ## 📬 İletişim
 
-**Geliştirici:** Yusuf  
-📧 Mail: yusuf@example.com  
+**Geliştirici:** Yusufcan Kurtulan
+📧 Mail: yusufcan.kurtulan@gmail..com  
 🔗 GitHub: [@yusufcankurtulan](https://github.com/yusufcankurtulan)
