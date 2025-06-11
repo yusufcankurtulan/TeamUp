@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885400890756",
+    "project_id": "teamatch-631e9",
+    "storage_bucket": "teamatch-631e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885400890756:android:b3e41aad44b1079eab01d1",
+        "android_client_info": {
+          "package_name": "com.example.teamatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyv1FOlBiHfo5KwyX1RWnORqJz4MlhU6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

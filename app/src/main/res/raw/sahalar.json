@@ -1,0 +1,264 @@
+{
+    "ADALAR": [],
+    "ARNAVUTKÖY": [
+        "Vadipark Halı Saha",
+        "Tellioğlu Spor Tesisi",
+        "Karadeniz Spor Tesisleri"
+    ],
+    "ATAŞEHİR": [
+        "Ataşehir Futbol Merkezi Halı Saha",
+        "Çamolukspor Halı Saha",
+        "Atakan Kurt Kapalı Halı Saha Tesisleri",
+        "İstanbul Atapark Kapalı Halı Saha",
+        "Yenisahra Arena Halı Sahaları",
+        "Ferhatpaşa Halı Saha Ve Spor Tesisleri",
+        "Garden Park Halı Saha"
+    ],
+    "AVCILAR": [
+        "Park Halı Saha",
+        "Maraton Halı Saha Tesisleri",
+        "Olimpik Spor Tesisleri"
+    ],
+    "BAĞCILAR": [
+        "Ateş Tuğla Atak Halı Saha",
+        "Ayyıldız Spor Tesisleri",
+        "Doğuş Kapalı Halı Saha Tesisleri"
+    ],
+    "BAHÇELİEVLER": [
+        "Üçler Halı Saha",
+        "Yaşam Halı Saha",
+        "Ayar Halı Saha",
+        "Spor Tesisleri (Best Spor)",
+        "Olimpik Spor Ve Sosyal Tesisleri",
+        "Çağrı Halı Saha",
+        "Burak Halı Saha"
+    ],
+    "BAKIRKÖY": [
+        "Selim Pars Halı Saha",
+        "Yeda Halı SAha",
+        "İpek Çit Halı Saha",
+        "Ataköy Halı Saha",
+        "Çiroz Halı Saha Tesisleri",
+        "İstiklal Halı Saha",
+        "Fair Play Spor Center"
+    ],
+    "BAŞAKŞEHIR": [
+        "Ergün Penbe Halı Sahaları",
+        "Gökkuşağı Halı Saha",
+        "Başak Halı Saha"
+    ],
+    "BAYRAMPAŞA": [
+        "Mehmet Akif Spor Kompleksi",
+        "Bosna Spor Tesisleri",
+        "Okan Buruk Spor Tesisleri",
+        "Arena Halı Saha",
+        "Mega Halı Saha Tesisleri"
+    ],
+    "BEŞİKTAŞ": [
+        "Muradiye Spor Klubü Halı Saha Ve Spor Tesisleri",
+        "Naturel Park Halı Saha",
+        "Akatlar Spor Kompleksi Halı Saha"
+    ],
+    "BEYKOZ": [
+        "Omka Halı Saha",
+        "Yunus Emre Spor Tesisleri",
+        "Göksu Arena Halı Saha",
+        "Özdemir Spor Tesisleri Halı Saha"
+    ],
+    "BEYLİKDÜZÜ": [
+        "Playdrome Halı Sahaları",
+        "Beylikdüzü Spor Kulübü Halı Saha",
+        "Albenizler Halı Saha",
+        "Siteler Halı Saha",
+        "Arena Kapalı Halı Saha Tesisleri Spor Center",
+        "Beylikdüzü Halı Saha Tesisleri"
+    ],
+    "BEYOĞLU": [
+        "Piyalepaşa Spor Tesisi",
+        "Sütlüce Spor Kulubü Halı Saha",
+        "İstanbul Beyoğlu Star Halı Saha"
+    ],
+    "BÜYÜKÇEKMECE": [
+        "Şafak Halı Saha Spor Tesisleri",
+        "Gümüş Halı Saha Tesisleri Duruman",
+        "Arena Halı Saha",
+        "Işık Halı Saha"
+    ],
+    "ÇATALCA": [
+        "Atatürk Spor Kompleksi",
+        "Erguvan Halı Saha"
+    ],
+    "ÇEKMEKÖY": [
+        "Orman Park Kapalı Halı Saha",
+        "Teras Halı Saha Tesisleri",
+        "Ömerli Halı Saha",
+        "Necati Alkan Spor Tesisleri"
+    ],
+    "ESENLER": [
+        "Aşiyan Halı Saha",
+        "Esenler Futbol Center",
+        "Topçuoğlu Halı Saha"
+    ],
+    "ESENYURT": [
+        "Debey Sosyal Ve Spor Tesisleri",
+        "Gözde Halı Saha Spor Tesisleri",
+        "Eft Halı Saha Tesisleri",
+        "All Star Halı Saha",
+        "Esenyurt Futbol Center",
+        "Adapark Halı Saha"
+    ],
+    "EYÜP": [
+        "Yeşilpınar Halı Saha",
+        "Pierre Loti Halı Saha",
+        "Öz Alibeyköy Spor Kulübü",
+        "Akşemsettin Halı Saha"
+    ],
+    "FATİH": [
+        "Zigana Spor Tesisleri",
+        "Görkem Halı Saha",
+        "Uzun Yusuf Spor Tesisleri"
+    ],
+    "GAZİOSMANPAŞA": [
+        "Albayrak Spor Tesisleri",
+        "Kazımkarabekir Mevlana Halı Saha",
+        "Cevahirler Halı Saha",
+        "Küçükköy Spor Halı Saha Tesisleri",
+        "Valide Suyu Halı Saha"
+    ],
+    "GÜNGÖREN": [
+        "Şampiyon 90 Halı Saha",
+        "Lider Halı Saha",
+        "Oktay Spor Tesisleri"
+    ],
+    "KADIKÖY": [
+        "Medeniyet Spor Tesisleri",
+        "Fikirtepe Futbol Akademisi",
+        "Hakan Spor Tesisleri",
+        "Kalamış Halı Saha",
+        "Kılıç Halı Saha",
+        "Biral Spor Tesisleri",
+        "Moda Halı Saha"
+    ],
+    "KAĞITHANE": [
+        "Hasbahçe Kapalı Halı Saha",
+        "Demirler Halı Saha",
+        "Profilo Halı Saha",
+        "Mehdi Sancak Halı Saha",
+        "ABİDE - İ SPOR TESİSLERİ",
+        "Gültepe Halı Saha",
+        "Demir Halı Saha"
+    ],
+    "KARTAL": [
+        "Öncü Halı Saha",
+        "Cihat Arman Halı Saha",
+        "Ayazma Kapalı Halı Saha",
+        "Swedish Sports Club",
+        "Bulvar Spor Açık Ve Kapalı Halı Saha Tesisleri",
+        "Çeliker Spor Tesisleri"
+    ],
+    "KÜÇÜKÇEKMECE": [
+        "Dörtler Halı Saha",
+        "Futbol Center Halı Saha Tesisi",
+        "İFA Spor Klubü Halı Saha Tesisleri"
+    ],
+    "MALTEPE": [
+        "Ay Işığı Spor Tesisleri",
+        "Tempo Halı Saha"
+    ],
+    "PENDİK": [
+        "Çamlık Spor Tesisleri",
+        "Everest Halı Saha Tesisleri",
+        "Kaynarcaspor Halı Saha",
+        "Sahil Spor Tesisleri",
+        "Dolayoba Spor Kulübü Halı Sahaları",
+        "Kurtköy Halı Saha",
+        "İBB Çamlık Spor Tesisleri",
+        "Paşa Halı Saha"
+    ],
+    "SANCAKTEPE": [
+        "Gök Arena Spor Tesisi",
+        "Lokman Ergen Halı Saha",
+        "Akademipark Halı Saha",
+        "Laliga Halı Saha",
+        "Başak Spor Tesisleri",
+        "Rıdvan Dilmen Spor Tesisleri"
+    ],
+    "SARIYER": [
+        "Sarıyer Spor Klubü Halı Saha",
+        "Maslak Halı Saha",
+        "Güven Kapalı Halı Saha",
+        "Martı Halı Saha Tesisleri",
+        "Baltalimanı Halı Saha",
+        "Tarabya Spor Kulubü",
+        "Mevlana Park Halı Saha",
+        "İstinye Spor",
+        "Dallas Halı Saha"
+    ],
+    "SİLİVRİ": [
+        "Gümüşyaka Arena Halisaha",
+        "Efe Spor Tesisleri Halı Saha",
+        "Agena Spor Tesisleri"
+    ],
+    "SULTANBEYLİ": [
+        "Yıldırım Spor Tesisleri",
+        "Gazi Çiftlik Tek Abi Spor Tesisleri",
+        "Cihan Halı Saha",
+        "Ülker Halı Saha",
+        "Merkez Arena Halı Saha",
+        "Aydın Oral Halı Saha"
+    ],
+    "SULTANGAZİ": [
+        "İstanbul Gamas Halı Saha",
+        "Seyit Ateş Futbol Sahası",
+        "Karadeniz Spor Tesisleri"
+    ],
+    "ŞİLE": [
+        "Olimpia Halı Saha"
+    ],
+    "ŞİŞLİ": [
+        "Mahmut Şevket Paşa Halı Saha",
+        "Kurtuluş Olimpia Halı Saha",
+        "Ayazağa Halı Saha",
+        "Süleyman Seba Tesisleri"
+    ],
+    "TUZLA": [
+        "Fatih Spor Tesisleri",
+        "Kaan Halı Saha",
+        "Tuzla Halı Saha"
+    ],
+    "ÜMRANİYE": [
+        "Doğa Orman Park Halı Saha",
+        "Ortaklar Halı Saha",
+        "Futbol Park Halı Saha",
+        "Arena Halı Saha",
+        "Fatih Tekke Spor Kompleksi",
+        "Hekimbaşı Spor Tesisleri",
+        "Kemerdere Halı Saha",
+        "Hamle Spor Tesisleri",
+        "Akdağ Spor Tesisleri",
+        "Spor Atakent Halı Saha Tesisleri",
+        "Şal Arena Halı Saha (TrabzonPark)",
+        "Çakmak Halı Saha",
+        "Cengiz Topel Spor Tesisleri",
+        "Asil Spor Tesisleri",
+        "Okyanusfly Spor Merkezi",
+        "Topçuoğlu Halı Saha"
+    ],
+    "ÜSKÜDAR": [
+        "Erdoğan Kardeşler Halı Saha",
+        "Vezirspor Halı Saha",
+        "Çamlıca Spor Klubü",
+        "Çengelköy Halı Saha Spor Tesisleri",
+        "Küçüksu Halı Saha",
+        "Gülhan Spor Tesisleri",
+        "Ufuk Halı Saha",
+        "Galeri Halı Saha",
+        "Şahin Spor Tesisleri Halı Saha"
+    ],
+    "ZEYTİNBURNU": [
+        "Çırpıcı Spor Tesisleri",
+        "İstanbul Demirciler Sitesi Halı Saha",
+        "Uğur Tütüneker Halı Saha",
+        "Hasan Doğan Amatör Spor Tesisleri"
+    ]
+}

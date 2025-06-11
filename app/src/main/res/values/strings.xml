@@ -1,0 +1,171 @@
+<resources>
+        <string name="app_name">Teamatch</string>
+        <string name="settings">Ayarlar</string>
+        <string name="light_theme">Açık Tema</string>
+        <string name="description">Açıklama</string>
+        <string name="start_time">Başlangıç Saati</string>
+        <string name="end_time">Bitiş Saati</string>
+        <string name="enter_height_weight">Boy ve kilonu gir</string>
+        <string name="support_feedback">Destek / Geri Bildirim</string>
+        <string name="language">Dil</string>
+        <string name="english">İngilizce</string>
+        <string name="have_account">Hesabın var mı? Giriş Yap</string>
+        <string name="no_account">Hesabın yok mu? Kayıt Ol</string>
+        <string name="welcome_user">Hoş Geldin, %1$s</string>
+        <string name="welcome_intro">Hoş geldin,\nbiraz birbirimizi tanıyalım!</string>
+        <string name="register">Kayıt Ol</string>
+        <string name="dark_theme">Koyu Tema</string>
+        <string name="terms_privacy">Kullanım Şartları &amp; Gizlilik</string>
+        <string name="find_match">Maç Bul</string>
+        <string name="create_match">Maç Oluştur</string>
+        <string name="match_feedback">Maç Sonu Değerlendirme</string>
+        <string name="matches_in_district">Maçlar - %1$s</string>
+        <string name="find_player">Oyuncu Bul</string>
+        <string name="position">Pozisyon</string>
+        <string name="choose_position_foot">Pozisyonunu ve ayak tercihini seç</string>
+        <string name="social_media">Sosyal Medya</string>
+        <string name="team_size">Takım Kişi Sayısı</string>
+        <string name="team_rating_hint">Takım arkadaşlarının verdiği puan (0-100)</string>
+        <string name="team_size_limit">Takım kişi sayısı 3 ile 11 arasında olmalı</string>
+        <string name="app_name_alt">TeamUp</string>
+        <string name="app_info">Uygulama Bilgileri</string>
+        <string name="app_version">Uygulama Versiyonu: v1.0.0</string>
+        <string name="location_permission_text">Uygulamanın çalışması için konum iznine ihtiyacı var.</string>
+        <string name="copyright">© 2025 Tüm Hakları Saklıdır</string>
+        <string name="back">Geri</string>
+        <string name="welcome_message">Hoş geldin,\nbiraz birbirimizi tanıyalım!</string>
+        <string name="next">İleri</string>
+        <string name="select_position_foot">Pozisyonunu ve ayak tercihini seç</string>
+        <string name="position_label">Pozisyon(lar):</string>
+        <string name="foot_label">Tercih ettiğin ayak(lar):</string>
+        <string name="height_label">Boy (cm)</string>
+        <string name="weight_label">Kilo (kg)</string>
+        <string name="select_photo">Fotoğraf Seç</string>
+        <string name="location_permission_required">Uygulamanın çalışması için konum iznine ihtiyacı var.</string>
+        <string name="allow_permission">İzin Ver</string>
+        <string name="deny_permission">Vazgeç</string>
+        <string name="select_district">İlçe Seç</string>
+        <string name="select_pitch">Halı Saha Seç</string>
+        <string name="select_date">Tarih Seç</string>
+        <string name="team_size_error">Takım kişi sayısı 3 ile 11 arasında olmalı</string>
+        <string name="match_created">Maç başarıyla oluşturuldu</string>
+        <string name="match_failed">Maç oluşturulamadı</string>
+        <string name="fill_all_fields">Lütfen tüm alanları doldurun</string>
+        <string name="select_date_content_desc">Tarih Seç</string>
+        <string name="edit_profile">Profili Düzenle</string>
+        <string name="bio">Açıklama</string>
+        <string name="save_changes">Değişiklikleri Kaydet</string>
+        <string name="new_field">Yeni %1$s</string>
+        <string name="email">E-Posta</string>
+        <string name="password">Şifre</string>
+        <string name="login">Giriş Yap</string>
+        <string name="no_account_register">Hesabın yok mu? Kayıt Ol</string>
+        <string name="login_failed">Giriş başarısız</string>
+        <string name="matches_title">Maçlar - %1$s</string>
+        <string name="no_matches_found">Bu ilçede maç bulunamadı.</string>
+        <string name="field_label">Saha: %1$s</string>
+        <string name="date_label">Tarih: %1$s</string>
+        <string name="time_label">Saat: %1$s - %2$s</string>
+        <string name="team_size_label">Takım Sayısı: %1$s</string>
+        <string name="data_fetch_error">Veri çekme hatası</string>
+        <string name="save_and_back">Kaydet ve Geri Dön</string>
+        <string name="preferred_foot">Ayak Tercihi</string>
+        <string name="height">Boy</string>
+        <string name="weight">Kilo</string>
+        <string name="district">Bölge</string>
+        <string name="rating">Reyting</string>
+        <string name="match_count">Maç Sayısı</string>
+        <string name="birth_date">Doğum Tarihi</string>
+        <string name="name">İsim</string>
+        <string name="surname">Soyisim</string>
+        <string name="day">Gün</string>
+        <string name="month">Ay</string>
+        <string name="year">Yıl</string>
+        <string name="show_password">Şifreyi Göster</string>
+        <string name="have_account_login">Hesabın var mı? Giriş Yap</string>
+        <string name="registration_failed">Kayıt başarısız</string>
+        <string name="invalid_password">Şifre en az 6 karakter olmalı, en az bir harf ve bir rakam içermelidir.</string>
+        <string name="invalid_day">Geçersiz gün!</string>
+        <string name="invalid_month">Geçersiz ay!</string>
+        <string name="underage">18 yaşından küçük olamazsınız!</string>
+        <string name="theme">Tema</string>
+        <string name="turkish">Türkçe</string>
+        <string name="logout">Çıkış Yap</string>
+        <string name="user_agreement_content">
+    <![CDATA[
+    Bu uygulamayı kullanarak tüm kullanım şartlarını kabul etmiş sayılırsınız.
+    Kişisel verileriniz KVKK ve gizlilik politikası kapsamında korunur.
+
+    • Uygulama yalnızca halı saha maçları için tasarlanmıştır.
+    • Kullanıcıların paylaştığı içerikler kullanıcıların sorumluluğundadır.
+    • Uygulama geliştirme sürecinde değişiklik gösterebilir.
+
+    Detaylı bilgi için bizimle iletişime geçebilirsiniz.
+    ]]>
+</string>
+        <string name="no_players_found">Şu an yakınlarınızda hiçbir oyuncu yok.</string>
+        <string name="matches_title_all">Tüm Maçlar</string>
+        <string name="my_matches_title">Maçlarım</string>
+        <string name="no_matches_foundd">Herhangi bir maç bulunamadı.</string>
+        <string name="rate_team_title">Takım Arkadaşlarını Puanla</string>
+        <string name="no_teammates_found">Takım arkadaşları bulunamadı.</string>
+        <string name="player_rating_info">Pozisyon: %1$s | Reyting: %2$d</string>
+        <string name="rate_player_title">Oyuncuyu Puanla</string>
+        <string name="already_rated">Bu oyuncuya zaten puan verdiniz ✅</string>
+        <string name="rating_saved">Puanlama kaydedildi ✅</string>
+        <string name="save_and_go_back">Kaydet ve Geri Dön</string>
+
+        <!-- Sorular -->
+        <string name="q1">Sahada aktif miydi?</string>
+        <string name="q2">Pas yeteneği nasıldı?</string>
+        <string name="q3">Şut kalitesi nasıldı?</string>
+        <string name="q4">Defans katkısı yeterli miydi?</string>
+        <string name="q5">Hızlı hareket etti mi?</string>
+        <string name="q6">Takım oyununa katkı sağladı mı?</string>
+        <string name="q7">Pozisyonunu iyi korudu mu?</string>
+        <string name="q8">Motivasyonu nasıldı?</string>
+        <string name="q9">Karar verme becerisi nasıldı?</string>
+        <string name="q10">Genel performansını nasıl değerlendirirsin?</string>
+        <string name="profile_photo">Profil Fotoğrafı</string>
+        <string name="social_prefix">Sosyal: </string>
+        <string name="pitch_name">Saha</string>
+        <string name="date">Tarih</string>
+        <string name="time">Saat</string>
+        <string name="accept">Kabul Et</string>
+        <string name="reject">Reddet</string>
+        <string name="match_detail">Maç Detayı</string>
+        <string name="participants">Katılımcılar</string>
+        <string name="already_participant">Bu maçta zaten yer alıyorsunuz ✅</string>
+        <string name="request_pending">İstek gönderildi, onay bekleniyor ⏳</string>
+        <string name="join_request">Katılmak istiyorum</string>
+        <string name="view_location">Konumu Gör</string>
+        <string name="invite_to_match">Maça Davet Et</string>
+        <string name="select_a_match">Bir maç seçin:</string>
+        <string name="invite_sent_success">Davet gönderildi ✅</string>
+        <string name="already_invited">Davet zaten gönderildi ✅</string>
+        <string name="goalkeeper">Kaleci</string>
+        <string name="defender">Defans</string>
+        <string name="midfielder">Orta Saha</string>
+        <string name="forward">Forvet</string>
+        <string name="right_foot">Sağ</string>
+        <string name="left_foot">Sol</string>
+        <string name="both_feet">İki</string>
+        <string name="match_not_found">Katıldığınız maç bulunamadı.</string>
+        <string name="request_box">İstek Kutusu</string>
+        <string name="request_type">İstek Türü</string>
+        <string name="request_type_invite">Maça davet</string>
+        <string name="request_type_join">Maça katılma talebi</string>
+        <string name="sender">Gönderen</string>
+        <string name="match">Maç</string>
+        <string name="edit">Düzenle</string>
+        <string name="empty_inbox">Davet kutunuz şu an boş</string>
+        <string name="position_forward">Forvet</string>
+        <string name="position_midfield">Orta Saha</string>
+        <string name="position_defense">Defans</string>
+        <string name="position_goalkeeper">Kaleci</string>
+        <string name="invalid_match_reference">Geçersiz maç veya kullanıcı bilgisi</string>
+        <string name="error_loading_match">Veriler alınırken bir hata oluştu</string>
+        <string name="user_not_found">Kullanıcı bulunamadı</string>
+
+
+</resources>
